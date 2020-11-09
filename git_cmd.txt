@@ -42,4 +42,4 @@
 #origin 은 우리가 연결한 깃허브 원격저장소의 닉네임
 
 https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/ : 깃허브 주브랜치 변경 방법
-
+git pull origin master --allow-unrelated-histories : pulling error 뜰때
