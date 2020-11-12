@@ -1,3 +1,8 @@
+아나콘다 업데이트
+conda update -n base conda
+conda update --all
+python -m pip install --upgrade pip
+
 가상환경 생성
 conda create -n 이름 python=3.----
 가상환경 삭제
