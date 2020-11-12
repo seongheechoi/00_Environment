@@ -7,6 +7,10 @@ python -m pip install --upgrade pip
 conda create -n 이름 python=3.----
 가상환경 삭제
 conda remove --name 이름 --all
+가상환경의 패키지 확인 및 추출
+pip freeze > requirement.txt
+패키지 설치 : 가상환경 활성화 후
+pip install -r requirement.txt
 
 주피터 노트북 커널 생성
 가상환경 활성화 후
