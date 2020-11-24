@@ -24,3 +24,8 @@ C:\Users\seonghee.choi\.jupyter
 내 config 파일 오픈
 c.NotebookApp.notebook_dir='경로' 
 확인하여 경로 변경
+
+#실행파일 만들기
+1.정리사이트
+http://m.blog.naver.com/mandori21/220372958993
+https://slays.tistory.com/42 (아이콘 처리)
