@@ -37,6 +37,7 @@
  git branch 브랜치명 : 브랜치 만들기
  git branch --delete 브랜치명1, 브랜치명2 : (로컬)브랜치 지우기
  git push origin :브랜치명 : 원격브랜치 지우기(1개씩)
+ git branch -m master main : 기본브랜치 master에서 main 으로 변경
 
  git clone -b {branch_name} --single-branch {저장소 URL}
 
