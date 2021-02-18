@@ -11,6 +11,8 @@ conda remove --name 이름 --all
 pip freeze > requirement.txt
 패키지 설치 : 가상환경 활성화 후
 pip install -r requirement.txt
+pip uninstall 패키지명  : 패키지 삭제
+pip uninstall 패키지 리스트 : 패키지 리스트 삭제
 
 주피터 노트북 커널 생성
 가상환경 활성화 후
@@ -24,8 +26,3 @@ C:\Users\seonghee.choi\.jupyter
 내 config 파일 오픈
 c.NotebookApp.notebook_dir='경로' 
 확인하여 경로 변경
-
-#실행파일 만들기
-1.정리사이트
-http://m.blog.naver.com/mandori21/220372958993
-https://slays.tistory.com/42 (아이콘 처리)
